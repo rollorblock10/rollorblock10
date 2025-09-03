@@ -1,8 +1,8 @@
-👋 Hi, I'm Kevin Lee
-🤔 I'm interested in Embedded Systems, Digital Circuits, and Web Programming.
-🌱 I’m a Computer Engineering student at SDSU.
-👯 I’m looking to collaborate on any project at all for any experience. 
-🔭 I’m currently working towards a Computer Engineering degree from SDSU.
+- 👋 Hi, I'm Kevin Lee
+- 🤔 I'm interested in Embedded Systems, Digital Circuits, and Web Programming.
+- 🌱 I’m a Computer Engineering student at SDSU.
+- 👯 I’m looking to collaborate on any project at all for any experience. 
+- 🔭 I’m currently working towards a Computer Engineering degree from SDSU.
 <!--
 **rollorblock10/rollorblock10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
